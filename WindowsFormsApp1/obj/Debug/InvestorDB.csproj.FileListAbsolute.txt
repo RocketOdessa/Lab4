@@ -1,0 +1,53 @@
+C:\Users\User\Desktop\Максим\ОНПУ\C#\Л.р. №3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\Максим\ОНПУ\C#\Л.р. №3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Максим\ОНПУ\C#\Л.р. №3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Максим\ОНПУ\C#\Л.р. №3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\Максим\ОНПУ\C#\Л.р. №3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorDB.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Максим\ОНПУ\C#\Л.р. №3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Максим\ОНПУ\C#\Л.р. №3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Максим\ОНПУ\C#\Л.р. №3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Максим\ОНПУ\C#\Л.р. №3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorDB.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Максим\ОНПУ\C#\Л.р. №3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorsDB.FormDb.resources
+C:\Users\Димон\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorDB.csprojAssemblyReference.cache
+C:\Users\Димон\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorsDB.FormDb.resources
+C:\Users\Димон\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Димон\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorDB.csproj.GenerateResource.cache
+C:\Users\Димон\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorDB.csproj.CoreCompileInputs.cache
+C:\Users\Димон\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Димон\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Димон\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Димон\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Димон\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Димас\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorDB.csprojAssemblyReference.cache
+C:\Users\Димас\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorsDB.FormDb.resources
+C:\Users\Димас\Desktop\Laba 4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorDB.csproj.GenerateResource.cache
+C:\Users\Димас\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorDB.csprojAssemblyReference.cache
+C:\Users\Димас\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorsDB.FormDb.resources
+C:\Users\Димас\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorDB.csproj.GenerateResource.cache
+C:\Users\Димас\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Димас\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Димас\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Димас\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Димас\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InvestorDB.csproj.CoreCompileInputs.cache
+C:\Users\Димас\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Димас\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\lab4\WindowsFormsApp1\obj\Debug\InvestorDB.csprojAssemblyReference.cache
+H:\lab4\WindowsFormsApp1\obj\Debug\InvestorsDB.FormDb.resources
+H:\lab4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\lab4\WindowsFormsApp1\obj\Debug\InvestorDB.csproj.GenerateResource.cache
+H:\lab4\WindowsFormsApp1\obj\Debug\InvestorDB.csproj.CoreCompileInputs.cache
+H:\lab4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\lab4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\lab4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\lab4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\lab4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\lab4\Lab4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\lab4\Lab4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\lab4\Lab4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\lab4\Lab4\WindowsFormsApp1\obj\Debug\InvestorDB.csprojAssemblyReference.cache
+H:\lab4\Lab4\WindowsFormsApp1\obj\Debug\InvestorsDB.FormDb.resources
+H:\lab4\Lab4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\lab4\Lab4\WindowsFormsApp1\obj\Debug\InvestorDB.csproj.GenerateResource.cache
+H:\lab4\Lab4\WindowsFormsApp1\obj\Debug\InvestorDB.csproj.CoreCompileInputs.cache
+H:\lab4\Lab4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\lab4\Lab4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
